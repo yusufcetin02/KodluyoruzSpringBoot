@@ -50,40 +50,40 @@
             <scope>runtime</scope>
         </dependency>
 
-        <!-- mssql -->
+       <!-- &lt;!&ndash; mssql &ndash;&gt;
         <dependency>
             <groupId>com.microsoft.sqlserver</groupId>
             <artifactId>mssql-jdbc</artifactId>
             <scope>runtime</scope>
         </dependency>
 
-        <!-- oracle -->
+        &lt;!&ndash; oracle &ndash;&gt;
         <dependency>
             <groupId>com.oracle.database.jdbc</groupId>
             <artifactId>ojdbc8</artifactId>
             <scope>runtime</scope>
         </dependency>
 
-        <!-- mysql -->
+        &lt;!&ndash; mysql &ndash;&gt;
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
             <scope>runtime</scope>
         </dependency>
 
-        <!-- mariadb -->
+        &lt;!&ndash; mariadb &ndash;&gt;
         <dependency>
             <groupId>org.mariadb.jdbc</groupId>
             <artifactId>mariadb-java-client</artifactId>
             <scope>runtime</scope>
         </dependency>
 
-        <!-- postgresql -->
+        &lt;!&ndash; postgresql &ndash;&gt;
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
             <scope>runtime</scope>
-        </dependency>
+        </dependency>-->
 
         <!-- security Comment out, build -->
         <dependency>
