@@ -14,5 +14,5 @@
 * [GitHub](https://github.com/yusufcetin02/KodluyoruzSpringBoot)
 
 ```sh
-  docker    
+docker    
 ```
